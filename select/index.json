@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Devilish",
+  "base_artist": "Jean Dawson",
+  "createdAt": "2025-12-01T18:47:27.455748Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lead by Devilish",
+      "artist": "Devilish Trio",
+      "has_synced": false,
+      "path": "select/01_Lead_by_Devilish_Devilish_Trio.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Devilish",
+      "artist": "Jean Dawson",
+      "has_synced": false,
+      "path": "select/02_Devilish_Jean_Dawson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nauseous / Devilish",
+      "artist": "Vegyn feat. JPEGMAFIA",
+      "has_synced": false,
+      "path": "select/03_Nauseous___Devilish_Vegyn_feat._JPEGMAFIA.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Devilish Belle",
+      "artist": "AXXIS",
+      "has_synced": true,
+      "path": "select/04_Devilish_Belle_AXXIS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Divebomber (Devilish Mix)",
+      "artist": "Pigface",
+      "has_synced": false,
+      "path": "select/05_Divebomber_(Devilish_Mix)_Pigface.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Devilish",
+      "artist": "Jean Dawson",
+      "has_synced": true,
+      "path": "select/06_Devilish_Jean_Dawson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nauseous / Devilish",
+      "artist": "Vegyn",
+      "has_synced": true,
+      "path": "select/07_Nauseous___Devilish_Vegyn.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Devilish",
+      "artist": "Alex Newell",
+      "has_synced": true,
+      "path": "select/08_Devilish_Alex_Newell.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Devilish Man",
+      "artist": "SomeKindaWonderful",
+      "has_synced": true,
+      "path": "select/09_Devilish_Man_SomeKindaWonderful.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Devilish Enlightenment",
+      "artist": "Lord Belial",
+      "has_synced": true,
+      "path": "select/10_Devilish_Enlightenment_Lord_Belial.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Devilish",
+      "artist": "Virtuoso",
+      "has_synced": false,
+      "path": "select/11_Devilish_Virtuoso.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Devilish of the PUNK",
+      "artist": "BORN",
+      "has_synced": false,
+      "path": "select/pl_01_Devilish_of_the_PUNK_BORN.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Devilish Eyes",
+      "artist": "BORN",
+      "has_synced": false,
+      "path": "select/pl_02_Devilish_Eyes_BORN.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "DEVILISH GIRL!!",
+      "artist": "BORN",
+      "has_synced": false,
+      "path": "select/pl_03_DEVILISH_GIRL!!_BORN.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Devilish Kitty",
+      "artist": "BORN",
+      "has_synced": false,
+      "path": "select/pl_04_Devilish_Kitty_BORN.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Devilish (intro)",
+      "artist": "BORN",
+      "has_synced": false,
+      "path": "select/pl_05_Devilish_(intro)_BORN.txt"
+    }
+  ]
+}
